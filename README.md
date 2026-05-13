@@ -20,7 +20,7 @@ It is built as part of my **CodeAlpha Internship Task** and designed with a mode
 
 ## 🔗 Live Demo
 
-👉 https://your-username.github.io/your-repo-name/
+👉 https://nomanhaiderpak.github.io/CodeAlpha_Portfolio/
 
 ---
 
